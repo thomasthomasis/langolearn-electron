@@ -1,0 +1,1 @@
+This is the repository of Lango Learn, a language learning desktop application created with Electron
